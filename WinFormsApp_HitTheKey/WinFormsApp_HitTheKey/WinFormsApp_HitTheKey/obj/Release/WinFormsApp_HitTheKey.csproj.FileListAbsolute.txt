@@ -1,0 +1,9 @@
+d:\Users\parfenovichsa\source\repos\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\bin\Release\WinFormsApp_HitTheKey.exe.config
+d:\Users\parfenovichsa\source\repos\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\bin\Release\WinFormsApp_HitTheKey.exe
+d:\Users\parfenovichsa\source\repos\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\bin\Release\WinFormsApp_HitTheKey.pdb
+d:\Users\parfenovichsa\source\repos\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\obj\Release\WinFormsApp_HitTheKey.Form1.resources
+d:\Users\parfenovichsa\source\repos\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\obj\Release\WinFormsApp_HitTheKey.Properties.Resources.resources
+d:\Users\parfenovichsa\source\repos\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\obj\Release\WinFormsApp_HitTheKey.csproj.GenerateResource.cache
+d:\Users\parfenovichsa\source\repos\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\obj\Release\WinFormsApp_HitTheKey.exe
+d:\Users\parfenovichsa\source\repos\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\obj\Release\WinFormsApp_HitTheKey.pdb
+d:\Users\parfenovichsa\source\repos\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\WinFormsApp_HitTheKey\obj\Release\WinFormsApp_HitTheKey.csprojAssemblyReference.cache
